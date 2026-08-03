@@ -1,0 +1,8 @@
+NAME="CinderOS"
+PRETTY_NAME="CinderOS Linux"
+ID=cinderos
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;230;100;30"
+HOME_URL="https://archlinux.org/"
+LOGO=cinderos
