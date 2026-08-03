@@ -2,6 +2,8 @@
 
 **CinderOS** is a custom, lightweight, Linux distribution built on top of **Arch Linux**. Designed with modern aesthetics and seamless out-of-the-box performance in mind, CinderOS comes pre-configured with the GNOME desktop environment and essential daily-driver applications.
 
+***Current version : 1.0***
+
 ---
 
 ## ✨ Features
