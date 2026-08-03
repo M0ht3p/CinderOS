@@ -23,7 +23,7 @@
 To test or build CinderOS on an Arch-based system, you will need:
 * `archiso`
 * `qemu-desktop` (for live testing)
-* Therefor, please contact me for any test or build of CinderOS, as it is not currently public, though you can just ask me for it.
+**Note that this distribution isn't currently fully public, and is only a live environment for now. The permanent ISO will come as soon as possible.**
 
 ### Live Boot with QEMU
 
