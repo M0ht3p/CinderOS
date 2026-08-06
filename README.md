@@ -3,6 +3,7 @@
 **CinderOS** is a custom, lightweight, Linux distribution built on top of **Arch Linux**. Designed with modern aesthetics and seamless out-of-the-box performance in mind, CinderOS comes pre-configured with the GNOME desktop environment and essential daily-driver applications.
 
 ***Current version : 1.0***
+**We may soon be able to provide a stable release different from the live environment**
 
 ---
 
@@ -10,7 +11,6 @@
 
 * **Base:** Arch Linux (Rolling Release)
 * **Desktop Environment:** Custom GNOME
-* **Keyboard Layout:** French (AZERTY) default
 * **System Display Manager:** GDM with custom CinderOS branding
 * **Session Type:** Wayland
 
@@ -31,3 +31,5 @@ If you have downloaded or built the `.iso` file, you can quickly test it inside 
 
 ```bash
 run_archiso -i /path/to/cinderos-latest.iso
+
+
