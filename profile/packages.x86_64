@@ -144,3 +144,4 @@ parted
 gptfdisk
 e2fsprogs
 dosfstools
+kpmcore

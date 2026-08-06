@@ -1,2 +1,6 @@
 work/
 out/
+work/
+out/
+*.qcow2
+*.iso
