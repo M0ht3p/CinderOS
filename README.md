@@ -4,7 +4,7 @@
 
 ***Current version : 1.0***
 
-**We may soon be able to provide a stable release different from the live environment**
+**The ISO file is out ! You will soon be able to find it on the official website.**
 
 ---
 
